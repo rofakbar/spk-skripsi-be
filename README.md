@@ -105,7 +105,7 @@ Password : user12345
 Base URL:
 
 ```text
-http://127.0.0.1:8000/api
+https://spk-skripsi-be-production-48e1.up.railway.app/api
 ```
 
 ---
